@@ -11,7 +11,7 @@ export default function HomePage() {
       <div className="h-screen flex flex-col justify-center items-center bg-slate-800">
         <div className="max-w-xl px-4">
           <h1 className="flex justify-center text-white text-4xl font-bold tracking-wide mb-2">Trenton Rogers</h1>
-          <p className="text-slate-200 text-lg mb-4">I am a software developer based out of Milwaukee, Wisconsin. I enjoy solving challenging problems and exploring new technologies, and I'm always striving to become a stronger developer than I was the day before.</p>
+          <p className="text-slate-200 text-lg mb-4">Software Developer | Milwaukee, WI</p>
           <div className="flex justify-center gap-10">
             <a href="https://github.com/trentkrogers" target="_blank" rel="noopener noreferrer">
               <img src="./static/GitHub-Mark-Light-64px.png"
